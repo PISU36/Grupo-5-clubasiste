@@ -21,7 +21,7 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 | RF-03 | Consultar historial | Pantalla 3 |
 
 ## Enlaces
-###SRS
+### SRS
 
-###Figma
+### Figma
 
