@@ -23,6 +23,6 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 
 ## Enlaces
 **SRS**
-[documento](https://docs.google.com/document/d/1yW922RX9VOitPtC8F2tf47gYKu96hn19Xuq4pbtc5PQ/edit?hl=es&tab=t.0)
-### Figma
+[Enlace](https://docs.google.com/document/d/1yW922RX9VOitPtC8F2tf47gYKu96hn19Xuq4pbtc5PQ/edit?hl=es&tab=t.0)
+**Figma**
 
