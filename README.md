@@ -13,15 +13,16 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 - Patricia Alexandra Toaquiza Cuyo
 - Jorge Luis Vera Crespo
 
-##tabla de trazabilidad
-| Requisito | Caso de uso | Pantalla |
-|-----------|-------------|----------|
-| RF-01 | Registrar miembro | Pantalla 1: Registro de miembros |
-| RF-02 | Tomar asistencia | Pantalla 2: Chequeo de asistencia por sesión |
-| RF-03 | Consultar historial | Pantalla 3: Historial de asistencia |
+## Tabla de trazabilidad
+
+| Requisito | Descripción | Caso de uso | Pantalla |
+|-----------|-------------|-------------|----------|
+| RF-01 | Registrar nuevos miembros del club | CU-01: Registrar miembro | Pantalla 1: Registro de miembros |
+| RF-02 | Registrar la asistencia de los miembros | CU-02: Registrar asistencia | Pantalla 2: Registro de asistencia por sesión |
+| RF-03 | Consultar el historial de asistencia | CU-03: Consultar historial | Pantalla 3: Historial de asistencia |
 
 ## Enlaces
 ### SRS
-
+https://docs.google.com/document/d/1yW922RX9VOitPtC8F2tf47gYKu96hn19Xuq4pbtc5PQ/edit?hl=es&tab=t.0
 ### Figma
 
