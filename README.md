@@ -27,4 +27,5 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 [Enlace](https://docs.google.com/document/d/1yW922RX9VOitPtC8F2tf47gYKu96hn19Xuq4pbtc5PQ/edit?hl=es&tab=t.0)
 
 **Figma**
+
 [Enlace](https://www.figma.com/design/eJHdGmfpn6w2LAWGw4pE2G/Sin-t%C3%ADtulo?node-id=0-1&t=C8hZqby50yxx4m36-1)
