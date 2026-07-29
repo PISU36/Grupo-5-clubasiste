@@ -2,7 +2,7 @@
 mini proyecto de software
 
 
-##Descripcion
+## Descripcion
 clubasiste es un sistema que permite gestionar la asistencia de un club de programacion, este sistema permite
 registrar miembros, tomar asistencia por sesiones y consultar el historial de asistencia de cada miembro.
 
