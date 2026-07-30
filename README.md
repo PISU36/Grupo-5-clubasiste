@@ -27,5 +27,5 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 [Enlace](https://docs.google.com/document/d/1yW922RX9VOitPtC8F2tf47gYKu96hn19Xuq4pbtc5PQ/edit?hl=es&tab=t.0)
 
 **Figma**
+https://www.figma.com/design/eJHdGmfpn6w2LAWGw4pE2G/Clubasist?node-id=0-1&t=jSLkT5gtGqjD8q2e-1
 
-[![Ver diseño en Figma](https://img.shields.io/badge/Figma-Ver_diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/eJHdGmfpn6w2LAWGw4pE2G/Clubasist?node-id=0-1)
