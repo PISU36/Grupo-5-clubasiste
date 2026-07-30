@@ -28,4 +28,4 @@ registrar miembros, tomar asistencia por sesiones y consultar el historial de as
 
 **Figma**
 
-[Enlace](https://www.figma.com/design/eJHdGmfpn6w2LAWGw4pE2G/Sin-t%C3%ADtulo?node-id=0-1&t=C8hZqby50yxx4m36-1)
+[![Ver diseño en Figma](https://img.shields.io/badge/Figma-Ver_diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/eJHdGmfpn6w2LAWGw4pE2G/Clubasist?node-id=0-1)
